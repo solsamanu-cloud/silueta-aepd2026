@@ -1,0 +1,22 @@
+{
+  "02:00:00:00:00:01": {
+    "id": "C01",
+    "name": "Cliente sint\u00e9tico 1"
+  },
+  "02:00:00:00:00:02": {
+    "id": "C02",
+    "name": "Cliente sint\u00e9tico 2"
+  },
+  "02:00:00:00:00:03": {
+    "id": "C03",
+    "name": "Cliente sint\u00e9tico 3"
+  },
+  "02:00:00:00:00:04": {
+    "id": "C04",
+    "name": "Cliente sint\u00e9tico 4"
+  },
+  "02:00:00:00:00:05": {
+    "id": "C05",
+    "name": "Cliente sint\u00e9tico 5"
+  }
+}

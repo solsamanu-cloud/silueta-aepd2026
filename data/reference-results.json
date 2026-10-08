@@ -1,0 +1,632 @@
+{
+  "movement": {
+    "CAP0020": {
+      "score_median_rad2": 0.0004108121708957536,
+      "score_max_rad2": 0.001529485313181113,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0018": {
+      "score_median_rad2": 0.0005561764775204045,
+      "score_max_rad2": 0.0032548964309432765,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0016": {
+      "score_median_rad2": 0.001529485313181113,
+      "score_max_rad2": 0.02213329573041427,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 5,
+      "alarm_duration_s": 40.62476897239685
+    },
+    "CAP0021": {
+      "score_median_rad2": 0.0006256985372104545,
+      "score_max_rad2": 0.002325828905994418,
+      "valid_scores": 221,
+      "n": 226,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0019": {
+      "score_median_rad2": 0.001210315857331334,
+      "score_max_rad2": 0.0028883255707593727,
+      "valid_scores": 220,
+      "n": 223,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0017": {
+      "score_median_rad2": 0.0016369284963384627,
+      "score_max_rad2": 0.01786084915309844,
+      "valid_scores": 221,
+      "n": 226,
+      "event_count": 5,
+      "alarm_duration_s": 30.669553518295288
+    },
+    "CAP0022": {
+      "score_median_rad2": 0.000543536103031304,
+      "score_max_rad2": 0.0027176805151565213,
+      "valid_scores": 218,
+      "n": 222,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0013": {
+      "score_median_rad2": 0.00123875669993181,
+      "score_max_rad2": 0.006832122411358603,
+      "valid_scores": 221,
+      "n": 226,
+      "event_count": 1,
+      "alarm_duration_s": 2.667603015899658
+    },
+    "CAP0009": {
+      "score_median_rad2": 0.0005087750731862789,
+      "score_max_rad2": 0.003678348976328129,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0011": {
+      "score_median_rad2": 0.0014852440024692613,
+      "score_max_rad2": 0.014814518901225314,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 5,
+      "alarm_duration_s": 29.321654796600342
+    },
+    "CAP0014": {
+      "score_median_rad2": 0.0006509792861886554,
+      "score_max_rad2": 0.0058714539501869955,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0010": {
+      "score_median_rad2": 0.0012577172616654601,
+      "score_max_rad2": 0.006870043534825902,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 1,
+      "alarm_duration_s": 2.668010950088501
+    },
+    "CAP0012": {
+      "score_median_rad2": 0.0013556801639559857,
+      "score_max_rad2": 0.012893181978882102,
+      "valid_scores": 220,
+      "n": 224,
+      "event_count": 5,
+      "alarm_duration_s": 41.328136682510376
+    },
+    "CAP0015": {
+      "score_median_rad2": 0.0004044919836512032,
+      "score_max_rad2": 0.0013778008193119115,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0027": {
+      "score_median_rad2": 0.000701540784145056,
+      "score_max_rad2": 0.004929746050749039,
+      "valid_scores": 219,
+      "n": 224,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0025": {
+      "score_median_rad2": 0.0013177590404886857,
+      "score_max_rad2": 0.006490832300152901,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0023": {
+      "score_median_rad2": 0.0053753192514898185,
+      "score_max_rad2": 0.055573406441328584,
+      "valid_scores": 220,
+      "n": 224,
+      "event_count": 8,
+      "alarm_duration_s": 129.31476712226868
+    },
+    "CAP0028": {
+      "score_median_rad2": 0.0007426220012346316,
+      "score_max_rad2": 0.005549124400714943,
+      "valid_scores": 220,
+      "n": 224,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0026": {
+      "score_median_rad2": 0.007960275834510786,
+      "score_max_rad2": 0.022145936104903372,
+      "valid_scores": 222,
+      "n": 227,
+      "event_count": 10,
+      "alarm_duration_s": 177.9400279521942
+    },
+    "CAP0024": {
+      "score_median_rad2": 0.005707129081828695,
+      "score_max_rad2": 0.07541247420197118,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 11,
+      "alarm_duration_s": 139.43017721176147
+    },
+    "CAP0029": {
+      "score_median_rad2": 0.0006699398479223058,
+      "score_max_rad2": 0.00506879017012914,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0041": {
+      "score_median_rad2": 0.0004641387507716441,
+      "score_max_rad2": 0.002493511373826387,
+      "valid_scores": 151,
+      "n": 186,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0039": {
+      "score_median_rad2": 0.0006369563707398092,
+      "score_max_rad2": 0.0020603810417233167,
+      "valid_scores": 203,
+      "n": 211,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0037": {
+      "score_median_rad2": 0.0013677280208909091,
+      "score_max_rad2": 0.011104568988674436,
+      "valid_scores": 130,
+      "n": 178,
+      "event_count": 3,
+      "alarm_duration_s": 17.325525999069214
+    },
+    "CAP0042": {
+      "score_median_rad2": 0.000375261117645159,
+      "score_max_rad2": 0.002389820801845487,
+      "valid_scores": 43,
+      "n": 116,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0040": {
+      "score_median_rad2": 0.0010665315975178207,
+      "score_max_rad2": 0.0030712159891485387,
+      "valid_scores": 51,
+      "n": 130,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0038": {
+      "score_median_rad2": 0.0012665062720524124,
+      "score_max_rad2": 0.011875631832509542,
+      "valid_scores": 100,
+      "n": 155,
+      "event_count": 1,
+      "alarm_duration_s": 6.653230905532837
+    },
+    "CAP0043": {
+      "score_median_rad2": 0.0005056149795640036,
+      "score_max_rad2": 0.003134812873296825,
+      "valid_scores": 29,
+      "n": 106,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0034": {
+      "score_median_rad2": 0.0005056149795640045,
+      "score_max_rad2": 0.0013461998830891614,
+      "valid_scores": 219,
+      "n": 224,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0032": {
+      "score_median_rad2": 0.00039185160916210317,
+      "score_max_rad2": 0.0007837032183242065,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0030": {
+      "score_median_rad2": 0.0011787149211085848,
+      "score_max_rad2": 0.01420146073850396,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 4,
+      "alarm_duration_s": 24.007817029953003
+    },
+    "CAP0035": {
+      "score_median_rad2": 0.0002464873025374518,
+      "score_max_rad2": 0.0004803342305858035,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0033": {
+      "score_median_rad2": 0.0013904411938010103,
+      "score_max_rad2": 0.006730999415445804,
+      "valid_scores": 221,
+      "n": 224,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0031": {
+      "score_median_rad2": 0.0009985895846389078,
+      "score_max_rad2": 0.01564878361750592,
+      "valid_scores": 219,
+      "n": 223,
+      "event_count": 5,
+      "alarm_duration_s": 28.00014615058899
+    },
+    "CAP0036": {
+      "score_median_rad2": 0.0003604481787907447,
+      "score_max_rad2": 0.0006446590989441044,
+      "valid_scores": 217,
+      "n": 222,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0007": {
+      "score_median_rad2": 0.0004234525453848534,
+      "score_max_rad2": 0.0011565942657526594,
+      "valid_scores": 221,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0008": {
+      "score_median_rad2": 0.0003223295494720525,
+      "score_max_rad2": 0.001049151082595308,
+      "valid_scores": 220,
+      "n": 225,
+      "event_count": 0,
+      "alarm_duration_s": 0.0
+    }
+  },
+  "respiration": {
+    "CAP0082": {
+      "peak_hz": 0.24533333333333335,
+      "peak_cycles_per_min": 14.72,
+      "detrended_variance_rad2": 0.00045727397273545876,
+      "n": 225
+    },
+    "CAP0070": {
+      "peak_hz": 0.08433333333333334,
+      "peak_cycles_per_min": 5.0600000000000005,
+      "detrended_variance_rad2": 0.013931625022691001,
+      "n": 225
+    },
+    "CAP0062": {
+      "peak_hz": 0.05966666666666667,
+      "peak_cycles_per_min": 3.5800000000000005,
+      "detrended_variance_rad2": 0.010831746901914477,
+      "n": 226
+    },
+    "CAP0063": {
+      "peak_hz": 0.05,
+      "peak_cycles_per_min": 3.0,
+      "detrended_variance_rad2": 0.0076021336255802105,
+      "n": 251
+    },
+    "CAP0071": {
+      "peak_hz": 0.05466666666666667,
+      "peak_cycles_per_min": 3.2800000000000002,
+      "detrended_variance_rad2": 0.016443490220632913,
+      "n": 224
+    },
+    "CAP0083": {
+      "peak_hz": 0.051666666666666666,
+      "peak_cycles_per_min": 3.1,
+      "detrended_variance_rad2": 0.0004892924685862196,
+      "n": 224
+    },
+    "CAP0076": {
+      "peak_hz": 0.3383333333333333,
+      "peak_cycles_per_min": 20.3,
+      "detrended_variance_rad2": 0.0002984464138620896,
+      "n": 222
+    },
+    "CAP0072": {
+      "peak_hz": 0.22566666666666668,
+      "peak_cycles_per_min": 13.540000000000001,
+      "detrended_variance_rad2": 0.0060200705281045885,
+      "n": 224
+    },
+    "CAP0064": {
+      "peak_hz": 0.16633333333333333,
+      "peak_cycles_per_min": 9.98,
+      "detrended_variance_rad2": 0.029929603864172236,
+      "n": 225
+    },
+    "CAP0065": {
+      "peak_hz": 0.052000000000000005,
+      "peak_cycles_per_min": 3.12,
+      "detrended_variance_rad2": 0.03179509560669894,
+      "n": 223
+    },
+    "CAP0073": {
+      "peak_hz": 0.063,
+      "peak_cycles_per_min": 3.7800000000000002,
+      "detrended_variance_rad2": 0.03021154527963489,
+      "n": 224
+    },
+    "CAP0077": {
+      "peak_hz": 0.21200000000000002,
+      "peak_cycles_per_min": 12.72,
+      "detrended_variance_rad2": 0.0002979885866308927,
+      "n": 225
+    },
+    "CAP0078": {
+      "peak_hz": 0.22799999999999998,
+      "peak_cycles_per_min": 13.68,
+      "detrended_variance_rad2": 0.00043441910273810846,
+      "n": 225
+    },
+    "CAP0066": {
+      "peak_hz": 0.16766666666666669,
+      "peak_cycles_per_min": 10.06,
+      "detrended_variance_rad2": 0.023945095557626014,
+      "n": 225
+    },
+    "CAP0074": {
+      "peak_hz": 0.197,
+      "peak_cycles_per_min": 11.82,
+      "detrended_variance_rad2": 0.01780100652292402,
+      "n": 225
+    },
+    "CAP0075": {
+      "peak_hz": 0.2,
+      "peak_cycles_per_min": 12.0,
+      "detrended_variance_rad2": 0.012637846275354614,
+      "n": 224
+    },
+    "CAP0067": {
+      "peak_hz": 0.16666666666666669,
+      "peak_cycles_per_min": 10.000000000000002,
+      "detrended_variance_rad2": 0.02007551690433183,
+      "n": 225
+    },
+    "CAP0079": {
+      "peak_hz": 0.266,
+      "peak_cycles_per_min": 15.96,
+      "detrended_variance_rad2": 0.0029012913469423705,
+      "n": 225
+    }
+  },
+  "quality": {
+    "CAP0020": {
+      "n": 225,
+      "max_gap_edges_s": 1.3367631435394287
+    },
+    "CAP0018": {
+      "n": 225,
+      "max_gap_edges_s": 1.337113857269287
+    },
+    "CAP0016": {
+      "n": 225,
+      "max_gap_edges_s": 2.658474922180176
+    },
+    "CAP0021": {
+      "n": 226,
+      "max_gap_edges_s": 1.33685302734375
+    },
+    "CAP0019": {
+      "n": 223,
+      "max_gap_edges_s": 2.668146848678589
+    },
+    "CAP0017": {
+      "n": 226,
+      "max_gap_edges_s": 1.3371050357818604
+    },
+    "CAP0022": {
+      "n": 222,
+      "max_gap_edges_s": 2.668527126312256
+    },
+    "CAP0013": {
+      "n": 226,
+      "max_gap_edges_s": 1.3366329669952393
+    },
+    "CAP0009": {
+      "n": 225,
+      "max_gap_edges_s": 1.3366940021514893
+    },
+    "CAP0011": {
+      "n": 225,
+      "max_gap_edges_s": 1.3369779586791992
+    },
+    "CAP0014": {
+      "n": 225,
+      "max_gap_edges_s": 1.3368568420410156
+    },
+    "CAP0010": {
+      "n": 225,
+      "max_gap_edges_s": 1.3506739139556885
+    },
+    "CAP0012": {
+      "n": 224,
+      "max_gap_edges_s": 2.6680920124053955
+    },
+    "CAP0015": {
+      "n": 225,
+      "max_gap_edges_s": 1.3368310928344727
+    },
+    "CAP0027": {
+      "n": 224,
+      "max_gap_edges_s": 2.6690409183502197
+    },
+    "CAP0025": {
+      "n": 225,
+      "max_gap_edges_s": 1.3505420684814453
+    },
+    "CAP0023": {
+      "n": 224,
+      "max_gap_edges_s": 2.667833089828491
+    },
+    "CAP0028": {
+      "n": 224,
+      "max_gap_edges_s": 2.663341999053955
+    },
+    "CAP0026": {
+      "n": 227,
+      "max_gap_edges_s": 1.3371050357818604
+    },
+    "CAP0024": {
+      "n": 225,
+      "max_gap_edges_s": 1.3369951248168945
+    },
+    "CAP0029": {
+      "n": 225,
+      "max_gap_edges_s": 1.340574026107788
+    },
+    "CAP0041": {
+      "n": 186,
+      "max_gap_edges_s": 5.335547208786011
+    },
+    "CAP0039": {
+      "n": 211,
+      "max_gap_edges_s": 3.9999990463256836
+    },
+    "CAP0037": {
+      "n": 178,
+      "max_gap_edges_s": 5.335038900375366
+    },
+    "CAP0042": {
+      "n": 116,
+      "max_gap_edges_s": 15.999459981918335
+    },
+    "CAP0040": {
+      "n": 130,
+      "max_gap_edges_s": 7.994655132293701
+    },
+    "CAP0038": {
+      "n": 155,
+      "max_gap_edges_s": 7.336277008056641
+    },
+    "CAP0043": {
+      "n": 106,
+      "max_gap_edges_s": 14.667896032333374
+    },
+    "CAP0034": {
+      "n": 224,
+      "max_gap_edges_s": 2.6641178131103516
+    },
+    "CAP0032": {
+      "n": 225,
+      "max_gap_edges_s": 1.3384909629821777
+    },
+    "CAP0030": {
+      "n": 225,
+      "max_gap_edges_s": 1.3370311260223389
+    },
+    "CAP0035": {
+      "n": 225,
+      "max_gap_edges_s": 1.3368151187896729
+    },
+    "CAP0033": {
+      "n": 224,
+      "max_gap_edges_s": 2.6627750396728516
+    },
+    "CAP0031": {
+      "n": 223,
+      "max_gap_edges_s": 2.668389081954956
+    },
+    "CAP0036": {
+      "n": 222,
+      "max_gap_edges_s": 2.6691818237304688
+    },
+    "CAP0007": {
+      "n": 225,
+      "max_gap_edges_s": 1.3375990390777588
+    },
+    "CAP0008": {
+      "n": 225,
+      "max_gap_edges_s": 1.3374269008636475
+    },
+    "CAP0082": {
+      "n": 225,
+      "max_gap_edges_s": 1.3369989395141602
+    },
+    "CAP0070": {
+      "n": 225,
+      "max_gap_edges_s": 1.3370990753173828
+    },
+    "CAP0062": {
+      "n": 226,
+      "max_gap_edges_s": 1.3500208854675293
+    },
+    "CAP0063": {
+      "n": 251,
+      "max_gap_edges_s": 2.668164014816284
+    },
+    "CAP0071": {
+      "n": 224,
+      "max_gap_edges_s": 1.4486641883850098
+    },
+    "CAP0083": {
+      "n": 224,
+      "max_gap_edges_s": 2.6653618812561035
+    },
+    "CAP0076": {
+      "n": 222,
+      "max_gap_edges_s": 4.419512987136841
+    },
+    "CAP0072": {
+      "n": 224,
+      "max_gap_edges_s": 2.6677968502044678
+    },
+    "CAP0064": {
+      "n": 225,
+      "max_gap_edges_s": 1.3371548652648926
+    },
+    "CAP0065": {
+      "n": 223,
+      "max_gap_edges_s": 2.66812801361084
+    },
+    "CAP0073": {
+      "n": 224,
+      "max_gap_edges_s": 2.662684917449951
+    },
+    "CAP0077": {
+      "n": 225,
+      "max_gap_edges_s": 1.3367900848388672
+    },
+    "CAP0078": {
+      "n": 225,
+      "max_gap_edges_s": 1.3361358642578125
+    },
+    "CAP0066": {
+      "n": 225,
+      "max_gap_edges_s": 1.3372759819030762
+    },
+    "CAP0074": {
+      "n": 225,
+      "max_gap_edges_s": 1.3368809223175049
+    },
+    "CAP0075": {
+      "n": 224,
+      "max_gap_edges_s": 2.668447971343994
+    },
+    "CAP0067": {
+      "n": 225,
+      "max_gap_edges_s": 1.3550550937652588
+    },
+    "CAP0079": {
+      "n": 225,
+      "max_gap_edges_s": 1.3379449844360352
+    }
+  }
+}

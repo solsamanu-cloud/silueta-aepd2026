@@ -1,0 +1,360 @@
+[
+  {
+    "capture_id": "CAP0106",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "vacio-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0107",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "quieto-e1-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0108",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "principal-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0109",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "vacio-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0110",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "quieto-e2-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0111",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "principal-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0112",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "vacio-r03",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0113",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "lateral-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0114",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "lateral-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0115",
+    "experiment": "pos02",
+    "session": "S01",
+    "condition": "vacio-r04",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0116",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "vacio-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0117",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "quieto-e1-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0118",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "principal-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0119",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "vacio-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0120",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "quieto-e2-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0121",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "principal-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0122",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "vacio-r03",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0123",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "lateral-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0124",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "lateral-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0125",
+    "experiment": "pos02",
+    "session": "S02",
+    "condition": "vacio-r04",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0126",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "vacio-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0127",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "quieto-e1-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0128",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "principal-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0129",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "vacio-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0130",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "quieto-e2-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0131",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "principal-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0132",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "vacio-r03",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0133",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "lateral-r01",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0134",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "lateral-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0135",
+    "experiment": "pos02",
+    "session": "S03",
+    "condition": "vacio-r04",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0136",
+    "experiment": "robot",
+    "session": "S01",
+    "condition": "vacio-inicial",
+    "start_s": 0,
+    "end_s": 300
+  },
+  {
+    "capture_id": "CAP0136",
+    "experiment": "robot",
+    "session": "S01",
+    "condition": "robot-r01",
+    "start_s": 420,
+    "end_s": 720
+  },
+  {
+    "capture_id": "CAP0137",
+    "experiment": "robot",
+    "session": "S01",
+    "condition": "vacio-posterior",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0138",
+    "experiment": "robot",
+    "session": "S01",
+    "condition": "robot-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0139",
+    "experiment": "robot",
+    "session": "S02",
+    "condition": "vacio-inicial",
+    "start_s": 0,
+    "end_s": 300
+  },
+  {
+    "capture_id": "CAP0139",
+    "experiment": "robot",
+    "session": "S02",
+    "condition": "robot-r01",
+    "start_s": 420,
+    "end_s": 720
+  },
+  {
+    "capture_id": "CAP0140",
+    "experiment": "robot",
+    "session": "S02",
+    "condition": "vacio-posterior",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0141",
+    "experiment": "robot",
+    "session": "S02",
+    "condition": "robot-r02",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0142",
+    "experiment": "power",
+    "location": "P01",
+    "antenna": "panel-14dBi",
+    "level": "alto",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0143",
+    "experiment": "power",
+    "location": "P01",
+    "antenna": "panel-14dBi",
+    "level": "medio",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0144",
+    "experiment": "power",
+    "location": "P01",
+    "antenna": "panel-14dBi",
+    "level": "bajo",
+    "start_s": 120,
+    "end_s": 420
+  },
+  {
+    "capture_id": "CAP0145",
+    "experiment": "power",
+    "location": "1m",
+    "antenna": "originales",
+    "level": "bajo",
+    "start_s": 0,
+    "end_s": null
+  },
+  {
+    "capture_id": "CAP0146",
+    "experiment": "power",
+    "location": "1m",
+    "antenna": "originales",
+    "level": "medio",
+    "start_s": 0,
+    "end_s": null
+  },
+  {
+    "capture_id": "CAP0147",
+    "experiment": "power",
+    "location": "1m",
+    "antenna": "originales",
+    "level": "alto",
+    "start_s": 0,
+    "end_s": null
+  }
+]

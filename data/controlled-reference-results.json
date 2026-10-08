@@ -1,0 +1,446 @@
+{
+  "pos02": {
+    "CAP0106": {
+      "n": 224,
+      "valid_scores": 219,
+      "score_max_rad2": 0.0008405849035251567,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0107": {
+      "n": 227,
+      "valid_scores": 221,
+      "score_max_rad2": 0.0013714806320673605,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0108": {
+      "n": 228,
+      "valid_scores": 224,
+      "score_max_rad2": 0.028807413460659122,
+      "event_count": 5,
+      "departures_with_new_alarm": 5,
+      "alarm_duration_s": 35.99684381484985
+    },
+    "CAP0109": {
+      "n": 228,
+      "valid_scores": 223,
+      "score_max_rad2": 0.0006004177882322544,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0110": {
+      "n": 230,
+      "valid_scores": 224,
+      "score_max_rad2": 0.0011692346402417584,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0111": {
+      "n": 227,
+      "valid_scores": 223,
+      "score_max_rad2": 0.033718198949674524,
+      "event_count": 5,
+      "departures_with_new_alarm": 5,
+      "alarm_duration_s": 33.335397481918335
+    },
+    "CAP0112": {
+      "n": 228,
+      "valid_scores": 221,
+      "score_max_rad2": 0.00133355950860006,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0113": {
+      "n": 224,
+      "valid_scores": 220,
+      "score_max_rad2": 0.0029136063197375732,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0114": {
+      "n": 225,
+      "valid_scores": 220,
+      "score_max_rad2": 0.0048855047400371875,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0115": {
+      "n": 230,
+      "valid_scores": 226,
+      "score_max_rad2": 0.0011186731422853583,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0116": {
+      "n": 226,
+      "valid_scores": 221,
+      "score_max_rad2": 0.000960668461171608,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0117": {
+      "n": 227,
+      "valid_scores": 220,
+      "score_max_rad2": 0.0012261163254427081,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0118": {
+      "n": 261,
+      "valid_scores": 256,
+      "score_max_rad2": 0.03009673165854734,
+      "event_count": 5,
+      "departures_with_new_alarm": 5,
+      "alarm_duration_s": 30.364282608032227
+    },
+    "CAP0119": {
+      "n": 224,
+      "valid_scores": 220,
+      "score_max_rad2": 0.0010049097718834578,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0120": {
+      "n": 247,
+      "valid_scores": 241,
+      "score_max_rad2": 0.0012513970744209102,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0121": {
+      "n": 310,
+      "valid_scores": 304,
+      "score_max_rad2": 0.02290100500550737,
+      "event_count": 3,
+      "departures_with_new_alarm": 3,
+      "alarm_duration_s": 21.979782104492188
+    },
+    "CAP0122": {
+      "n": 230,
+      "valid_scores": 225,
+      "score_max_rad2": 0.0007268215331232562,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0123": {
+      "n": 228,
+      "valid_scores": 224,
+      "score_max_rad2": 0.0022942279697716686,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0124": {
+      "n": 252,
+      "valid_scores": 248,
+      "score_max_rad2": 0.00324567949121164,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0125": {
+      "n": 230,
+      "valid_scores": 226,
+      "score_max_rad2": 0.0006699398479223053,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0126": {
+      "n": 225,
+      "valid_scores": 220,
+      "score_max_rad2": 0.0043862099477177344,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0127": {
+      "n": 228,
+      "valid_scores": 223,
+      "score_max_rad2": 0.0034824231717470776,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0128": {
+      "n": 230,
+      "valid_scores": 222,
+      "score_max_rad2": 0.071032584441498,
+      "event_count": 5,
+      "departures_with_new_alarm": 5,
+      "alarm_duration_s": 42.65100693702698
+    },
+    "CAP0129": {
+      "n": 230,
+      "valid_scores": 225,
+      "score_max_rad2": 0.0056249666476495454,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0130": {
+      "n": 229,
+      "valid_scores": 225,
+      "score_max_rad2": 0.0020224599182560163,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0131": {
+      "n": 270,
+      "valid_scores": 266,
+      "score_max_rad2": 0.07419267806377305,
+      "event_count": 5,
+      "departures_with_new_alarm": 5,
+      "alarm_duration_s": 39.514158964157104
+    },
+    "CAP0132": {
+      "n": 225,
+      "valid_scores": 221,
+      "score_max_rad2": 0.0013904411938010113,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0133": {
+      "n": 223,
+      "valid_scores": 219,
+      "score_max_rad2": 0.008020317613334015,
+      "event_count": 1,
+      "departures_with_new_alarm": 1,
+      "alarm_duration_s": 2.6515350341796875
+    },
+    "CAP0134": {
+      "n": 225,
+      "valid_scores": 221,
+      "score_max_rad2": 0.006623556232288452,
+      "event_count": 0,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 0.0
+    },
+    "CAP0135": {
+      "n": 223,
+      "valid_scores": 219,
+      "score_max_rad2": 0.014416347104818658,
+      "event_count": 2,
+      "departures_with_new_alarm": 0,
+      "alarm_duration_s": 10.663621187210083
+    }
+  },
+  "robot": {
+    "CAP0136-vacio-inicial": {
+      "n_bfi_300s": 250,
+      "valid": 245,
+      "median": [
+        0.0004271978415297723,
+        0.0004894974522138865
+      ],
+      "p95": [
+        0.0005688168520095049,
+        0.0007531881670332261
+      ],
+      "fixed5": [
+        0.0004044919836512033,
+        0.0004770314801907326
+      ],
+      "maximum": [
+        0.0008721858397479068,
+        0.0010232722293682316
+      ],
+      "above_threshold": 0
+    },
+    "CAP0136-robot-r01": {
+      "n_bfi_300s": 310,
+      "valid": 229,
+      "median": [
+        0.0006509792861886549,
+        0.0007548793608581455
+      ],
+      "p95": [
+        0.0011035046928984387,
+        0.0015568988550254085
+      ],
+      "fixed5": [
+        0.0006509792861886549,
+        0.0007391987399634831
+      ],
+      "maximum": [
+        0.0014789238152247111,
+        0.002453007141796241
+      ],
+      "above_threshold": 0
+    },
+    "CAP0137-vacio-posterior": {
+      "n_bfi_300s": 226,
+      "valid": 221,
+      "median": [
+        0.0005308957285422044,
+        0.0004422758305281
+      ],
+      "p95": [
+        0.0006446590989441053,
+        0.000612859979202386
+      ],
+      "fixed5": [
+        0.0005308957285422044,
+        0.0004422679159789883
+      ],
+      "maximum": [
+        0.0007268215331232557,
+        0.0007328885238337877
+      ],
+      "above_threshold": 0
+    },
+    "CAP0138-robot-r02": {
+      "n_bfi_300s": 229,
+      "valid": 224,
+      "median": [
+        0.0007078609713896057,
+        0.0007660696439226919
+      ],
+      "p95": [
+        0.0013768527912252295,
+        0.001594219980007526
+      ],
+      "fixed5": [
+        0.0007015407841450557,
+        0.00076447594437343
+      ],
+      "maximum": [
+        0.001750691866740364,
+        0.002354684861156649
+      ],
+      "above_threshold": 0
+    },
+    "CAP0139-vacio-inicial": {
+      "n_bfi_300s": 225,
+      "valid": 220,
+      "median": [
+        0.0010112299591280088,
+        0.0011590109044052191
+      ],
+      "p95": [
+        0.0016119637567224914,
+        0.001991243314601252
+      ],
+      "fixed5": [
+        0.0010112299591280088,
+        0.0011590109044052191
+      ],
+      "maximum": [
+        0.002306868344260769,
+        0.0051904269326213245
+      ],
+      "above_threshold": 0
+    },
+    "CAP0139-robot-r01": {
+      "n_bfi_300s": 225,
+      "valid": 220,
+      "median": [
+        0.0014252022236460353,
+        0.0024374672806351068
+      ],
+      "p95": [
+        0.003484951246644895,
+        0.0065959668592801115
+      ],
+      "fixed5": [
+        0.0014473228790019606,
+        0.002401613505759513
+      ],
+      "maximum": [
+        0.004499973318119636,
+        0.01391645300087774
+      ],
+      "above_threshold": 0
+    },
+    "CAP0140-vacio-posterior": {
+      "n_bfi_300s": 225,
+      "valid": 220,
+      "median": [
+        0.0014220421300237603,
+        0.011857186343646227
+      ],
+      "p95": [
+        0.002719260561967658,
+        0.02317253734907482
+      ],
+      "fixed5": [
+        0.0014220421300237603,
+        0.011857186343646227
+      ],
+      "maximum": [
+        0.0032801771799214753,
+        0.03131191327024517
+      ],
+      "above_threshold": 0
+    },
+    "CAP0141-robot-r02": {
+      "n_bfi_300s": 230,
+      "valid": 226,
+      "median": [
+        0.002114102633301991,
+        0.00835489116747411
+      ],
+      "p95": [
+        0.003992778291744494,
+        0.02760922438338631
+      ],
+      "fixed5": [
+        0.002110942539679715,
+        0.00835489116747411
+      ],
+      "maximum": [
+        0.012760458046746552,
+        0.06545111733790343
+      ],
+      "above_threshold": 3
+    }
+  },
+  "power": {
+    "CAP0142": {
+      "bfi": 211,
+      "client_rssi_median": -72,
+      "ap_rssi_median": -64,
+      "ndpa": 221
+    },
+    "CAP0143": {
+      "bfi": 212,
+      "client_rssi_median": -72,
+      "ap_rssi_median": -68,
+      "ndpa": 220
+    },
+    "CAP0144": {
+      "bfi": 207,
+      "client_rssi_median": -72,
+      "ap_rssi_median": -71,
+      "ndpa": 222
+    },
+    "CAP0145": {
+      "beacons": 2896,
+      "ap_rssi_median": -34.0
+    },
+    "CAP0146": {
+      "beacons": 2908,
+      "ap_rssi_median": -27.0
+    },
+    "CAP0147": {
+      "beacons": 2912,
+      "ap_rssi_median": -23.0
+    }
+  }
+}
